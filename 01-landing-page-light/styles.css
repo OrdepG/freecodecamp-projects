@@ -227,7 +227,9 @@ footer > span{
   footer > span{
     justify-content: center;
   }
-  
+  nav > ul {
+    width: 25vw;
+  }
 }
 
 @media (max-width: 650px){
