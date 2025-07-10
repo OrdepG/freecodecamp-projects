@@ -227,15 +227,7 @@ footer > span{
   footer > span{
     justify-content: center;
   }
-  nav > ul {
-    width: 25vw;
-   margin-top: 10px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 0px 50px;
-  }
+  
 }
 
 @media (max-width: 650px){
