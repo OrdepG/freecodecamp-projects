@@ -229,6 +229,7 @@ footer > span{
   }
   nav > ul {
     width: 25vw;
+    flex-direction: column;
   }
 }
 
