@@ -266,6 +266,9 @@ footer > span{
     justify-content: center;
 
   }
+  .header{
+    padding-bottom: 20px;
+  }
 }
 
 @media (max-width: 500px){
