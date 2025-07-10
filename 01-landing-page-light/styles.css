@@ -266,14 +266,15 @@ footer > span{
     justify-content: center;
 
   }
-  .header{
-    padding-bottom: 20px;
+  header{
+    padding-bottom: 10px;
   }
 }
 
 @media (max-width: 500px){
-  .features .icon{
-    display: none;
+  .grid{
+    flex-direction: column;
+    gap: 10px;
   }
   .features .desc{
     width: 90%;
@@ -283,5 +284,6 @@ footer > span{
   }
   .features{
         max-width: 100%;
+        
   }
 }
