@@ -7,7 +7,7 @@ Repositório com os projetos desenvolvidos ao longo do percurso de certificaçã
 ## 🚀 Projetos incluídos
 | #   | Projeto                           | Descrição                                                |
 |-----|------------------------------------|------------------------------------------------------------|
-| 01  | Responsive Web Revista Vintage     | Pagina de uma revista old school responsiva.               |
+| 01  | Landing Page                       | lamnding page de uma empresa responsiva.                   |
 | 02  | Tribute Page                       | Página de homenagem a uma figura histórica.                |
 
 ---
@@ -24,7 +24,7 @@ Repositório com os projetos desenvolvidos ao longo do percurso de certificaçã
 ## 📂 Estrutura
 ```
 📁 freecodecamp-projects
-├── 01-responsive-web-revista-vintage
+├── 01-landing-page-light
 ├── 02-tribute-page
 ```
 
