@@ -7,8 +7,8 @@ Repositório com os projetos desenvolvidos ao longo do percurso de certificaçã
 ## 🚀 Projetos incluídos
 | #   | Projeto                           | Descrição                                                |
 |-----|------------------------------------|------------------------------------------------------------|
-| 01  | Landing Page                       | Landing page de uma empresa responsiva.                   |
-| 02  | Tribute Page                       | Página de homenagem a uma figura histórica.                |
+| 01  | Landing Page                       | Landing page de uma empresa responsiva.                    |
+| 02  | Portfolio                          | Portfolio responsivo.                                      |
 
 ---
 
@@ -25,7 +25,7 @@ Repositório com os projetos desenvolvidos ao longo do percurso de certificaçã
 ```
 📁 freecodecamp-projects
 ├── 01-landing-page-light
-├── 02-tribute-page
+├── 02-portfolio
 ```
 
 Cada pasta contém:
